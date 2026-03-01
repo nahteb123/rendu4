@@ -12,9 +12,9 @@ export default function LoginPage() {
         e.preventDefault();
 
         // 🔹 Simulation d’authentification (prototype)
-        if (email === "etudiant@test.com" && password === "password") {
+        if (email === "test@gmail.com" && password === "password") {
             // plus tard : stockage du token JWT
-            navigate("/quiz");
+            navigate("/quizzes");
         } else {
             setError("Identifiants incorrects");
         }
