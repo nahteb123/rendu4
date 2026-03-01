@@ -5,7 +5,7 @@
 **SkillQuiz** – Application web de quiz éducatif  
 **Formation :** YNOV  
 **Rendu :** Rendu 4  
-**Étudiants :** À compléter
+**Étudiants :** Ethan BERMOND
 
 ---
 
