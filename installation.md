@@ -1,11 +1,11 @@
-# 🚀 Projet Fullstack - Rendu 4
+#  Projet Fullstack - Rendu 4
 
 Ce dépôt contient l'intégralité de l'application, incluant le **frontend
 (React + Vite)** et le **backend (Express)**.
 
 ------------------------------------------------------------------------
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ``` text
 rendu4/
@@ -16,17 +16,17 @@ rendu4/
 
 ------------------------------------------------------------------------
 
-## 🛠️ Installation et démarrage
+## Installation et démarrage
 
 Suivez ces étapes pour lancer le projet localement.
 
-### 1️⃣ Prérequis
+### Prérequis
 
 Assurez-vous d'avoir **Node.js** installé sur votre machine.
 
 ------------------------------------------------------------------------
 
-## 🔧 Configuration du Backend (Express)
+##  Configuration du Backend (Express)
 
 Ouvrez un terminal à la racine du projet et entrez :
 
@@ -38,10 +38,10 @@ npm install
 npm run dev
 ```
 L'interface sera accessible à l'adresse suivante :\
-👉 http://localhost:3000
+http://localhost:3000
 ------------------------------------------------------------------------
 
-## 🎨 Configuration du Frontend (React + Vite)
+##  Configuration du Frontend (React + Vite)
 
 Ouvrez un deuxième terminal à la racine du projet et entrez :
 
@@ -54,11 +54,11 @@ npm run dev
 ```
 
 L'interface sera accessible à l'adresse suivante :\
-👉 http://localhost:5173
+http://localhost:5173
 
 ------------------------------------------------------------------------
 
-## ⚡ Technologies utilisées
+## Technologies utilisées
 
 ### Frontend
 
@@ -73,8 +73,8 @@ L'interface sera accessible à l'adresse suivante :\
 
 ------------------------------------------------------------------------
 
-## 📝 Auteur
+## Auteur
 
-Projet réalisé dans le cadre du **Rendu 4**.
+Projet réalisé dans le cadre du **Rendu 4** par Ethan BERMOND.
 
 
